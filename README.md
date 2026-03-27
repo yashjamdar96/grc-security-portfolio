@@ -66,3 +66,32 @@ The following security areas were evaluated:
 - ISO 27001 Annex A Framework
 
 ---
+
+---
+
+# Project 2: Risk Register and Risk Assessment
+
+## Overview
+
+This project simulates a risk assessment for a SaaS organization by identifying, evaluating, and prioritizing security risks.
+
+---
+
+## Key Activities
+
+- Identified 10 common security risks
+- Calculated risk scores using likelihood and impact
+- Categorized risks into High, Medium, and Low
+- Defined mitigation strategies and ownership
+- Created a risk summary report
+
+---
+
+## Skills Demonstrated
+
+- Risk Assessment and Analysis
+- Risk Scoring Methodology
+- Risk Mitigation Planning
+- Security Documentation
+
+---
