@@ -95,3 +95,30 @@ This project simulates a risk assessment for a SaaS organization by identifying,
 - Security Documentation
 
 ---
+
+---
+
+# Project 3: Vendor Risk Assessment
+
+## Overview
+
+This project simulates evaluating a third-party SaaS vendor's security posture.
+
+---
+
+## Key Activities
+
+- Created a 25-question security questionnaire
+- Applied scoring model (Yes = 2, Partial = 1, No = 0)
+- Evaluated vendor across key domains
+- Mapped audit evidence for each control
+- Calculated vendor risk level
+
+---
+
+## Result
+
+Vendor Risk Level: Low  
+Total Score: 46 / 50  
+
+---
